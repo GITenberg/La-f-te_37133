@@ -1,0 +1,37 @@
+_repo: La-f-te_37133
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maizeroy, René
+    aliases:
+    - Maizeroy, Rene
+    - Toussaint, René Jules Jean, baron
+    birthdate: 1856
+    deathdate: 1918
+    gutenberg_agent_id: '38669'
+    url: http://www.gutenberg.org/2009/agents/38669
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2011-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37133'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+tableOfContents: Mariage rouge -- Le Dernier pas -- Le Rouquin -- L'Hermaphrodite
+  -- Le Singe -- La Vraie et l'Autre -- Celle qu'on n'achète pas -- Le Mauvais Mirage
+  -- Le Frisson nouveau -- A l'Ombre -- Parvenu -- La Fille aux Rouliers -- La Dernière
+  Pensée de Tom Clibbooth -- L'Hôtel à tout faire -- A Perpète -- Le Miracle des Cerisiers
+  -- La Millionnaire -- Rupture -- La Date rouge -- La Dame aux Garçonnières -- Les
+  Batteuses d'hommes -- La Donneuse de patience -- Le Voleur -- Le Pleureur.
+title: La fête
+url: http://www.gutenberg.org/ebooks/37133
